@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace DBFinalProject.Forms
 {
-    public partial class attendance : Form
+    public partial class UploadResult : Form
     {
-        public attendance()
+        public UploadResult()
         {
             InitializeComponent();
         }

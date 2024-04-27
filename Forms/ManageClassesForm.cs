@@ -16,5 +16,10 @@ namespace DBFinalProject.Forms
         {
             InitializeComponent();
         }
+
+        private void DataTable_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
     }
 }

@@ -1,0 +1,191 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\Documents\\GitHub\\SchoolManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78D30E9F-6349-4D3A-BA67-93CCA545B86A}|DBFinalProject.csproj|c:\\users\\hp\\documents\\github\\schoolmanagementsystem\\forms\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{78D30E9F-6349-4D3A-BA67-93CCA545B86A}|DBFinalProject.csproj|solutionrelative:forms\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78D30E9F-6349-4D3A-BA67-93CCA545B86A}|DBFinalProject.csproj|c:\\users\\hp\\documents\\github\\schoolmanagementsystem\\forms\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78D30E9F-6349-4D3A-BA67-93CCA545B86A}|DBFinalProject.csproj|solutionrelative:forms\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78D30E9F-6349-4D3A-BA67-93CCA545B86A}|DBFinalProject.csproj|C:\\Users\\hp\\Documents\\GitHub\\SchoolManagementSystem\\forms\\adminmenuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{78D30E9F-6349-4D3A-BA67-93CCA545B86A}|DBFinalProject.csproj|solutionrelative:forms\\adminmenuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78D30E9F-6349-4D3A-BA67-93CCA545B86A}|DBFinalProject.csproj|C:\\Users\\hp\\Documents\\GitHub\\SchoolManagementSystem\\forms\\manageteachersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{78D30E9F-6349-4D3A-BA67-93CCA545B86A}|DBFinalProject.csproj|solutionrelative:forms\\manageteachersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78D30E9F-6349-4D3A-BA67-93CCA545B86A}|DBFinalProject.csproj|C:\\Users\\hp\\Documents\\GitHub\\SchoolManagementSystem\\forms\\managestudentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{78D30E9F-6349-4D3A-BA67-93CCA545B86A}|DBFinalProject.csproj|solutionrelative:forms\\managestudentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78D30E9F-6349-4D3A-BA67-93CCA545B86A}|DBFinalProject.csproj|C:\\Users\\hp\\Documents\\GitHub\\SchoolManagementSystem\\forms\\manageclassesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{78D30E9F-6349-4D3A-BA67-93CCA545B86A}|DBFinalProject.csproj|solutionrelative:forms\\manageclassesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78D30E9F-6349-4D3A-BA67-93CCA545B86A}|DBFinalProject.csproj|C:\\Users\\hp\\Documents\\GitHub\\SchoolManagementSystem\\forms\\mainwindowform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{78D30E9F-6349-4D3A-BA67-93CCA545B86A}|DBFinalProject.csproj|solutionrelative:forms\\mainwindowform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78D30E9F-6349-4D3A-BA67-93CCA545B86A}|DBFinalProject.csproj|C:\\Users\\hp\\Documents\\GitHub\\SchoolManagementSystem\\forms\\adminmenuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78D30E9F-6349-4D3A-BA67-93CCA545B86A}|DBFinalProject.csproj|solutionrelative:forms\\adminmenuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78D30E9F-6349-4D3A-BA67-93CCA545B86A}|DBFinalProject.csproj|C:\\Users\\hp\\Documents\\GitHub\\SchoolManagementSystem\\forms\\mainwindowform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78D30E9F-6349-4D3A-BA67-93CCA545B86A}|DBFinalProject.csproj|solutionrelative:forms\\mainwindowform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78D30E9F-6349-4D3A-BA67-93CCA545B86A}|DBFinalProject.csproj|C:\\Users\\hp\\Documents\\GitHub\\SchoolManagementSystem\\forms\\addteachersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{78D30E9F-6349-4D3A-BA67-93CCA545B86A}|DBFinalProject.csproj|solutionrelative:forms\\addteachersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78D30E9F-6349-4D3A-BA67-93CCA545B86A}|DBFinalProject.csproj|C:\\Users\\hp\\Documents\\GitHub\\SchoolManagementSystem\\forms\\manageclassesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78D30E9F-6349-4D3A-BA67-93CCA545B86A}|DBFinalProject.csproj|solutionrelative:forms\\manageclassesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "attendance.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\GitHub\\SchoolManagementSystem\\Forms\\attendance.cs",
+              "RelativeDocumentMoniker": "Forms\\attendance.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\GitHub\\SchoolManagementSystem\\Forms\\attendance.cs [Design]",
+              "RelativeToolTip": "Forms\\attendance.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T19:32:14.892Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "attendance.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\GitHub\\SchoolManagementSystem\\Forms\\attendance.cs",
+              "RelativeDocumentMoniker": "Forms\\attendance.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\GitHub\\SchoolManagementSystem\\Forms\\attendance.cs",
+              "RelativeToolTip": "Forms\\attendance.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T19:00:50.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ManageClassesForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\GitHub\\SchoolManagementSystem\\Forms\\ManageClassesForm.cs",
+              "RelativeDocumentMoniker": "Forms\\ManageClassesForm.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\GitHub\\SchoolManagementSystem\\Forms\\ManageClassesForm.cs [Design]",
+              "RelativeToolTip": "Forms\\ManageClassesForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T18:30:19.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ManageStudentsForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\GitHub\\SchoolManagementSystem\\Forms\\ManageStudentsForm.cs",
+              "RelativeDocumentMoniker": "Forms\\ManageStudentsForm.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\GitHub\\SchoolManagementSystem\\Forms\\ManageStudentsForm.cs [Design]",
+              "RelativeToolTip": "Forms\\ManageStudentsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T18:30:19.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ManageTeachersForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\GitHub\\SchoolManagementSystem\\Forms\\ManageTeachersForm.cs",
+              "RelativeDocumentMoniker": "Forms\\ManageTeachersForm.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\GitHub\\SchoolManagementSystem\\Forms\\ManageTeachersForm.cs [Design]",
+              "RelativeToolTip": "Forms\\ManageTeachersForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T18:30:19.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminMenuForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\GitHub\\SchoolManagementSystem\\Forms\\AdminMenuForm.cs",
+              "RelativeDocumentMoniker": "Forms\\AdminMenuForm.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\GitHub\\SchoolManagementSystem\\Forms\\AdminMenuForm.cs [Design]",
+              "RelativeToolTip": "Forms\\AdminMenuForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T18:30:19.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindowForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\GitHub\\SchoolManagementSystem\\Forms\\MainWindowForm.cs",
+              "RelativeDocumentMoniker": "Forms\\MainWindowForm.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\GitHub\\SchoolManagementSystem\\Forms\\MainWindowForm.cs [Design]",
+              "RelativeToolTip": "Forms\\MainWindowForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T18:34:21.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdminMenuForm.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\GitHub\\SchoolManagementSystem\\Forms\\AdminMenuForm.cs",
+              "RelativeDocumentMoniker": "Forms\\AdminMenuForm.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\GitHub\\SchoolManagementSystem\\Forms\\AdminMenuForm.cs",
+              "RelativeToolTip": "Forms\\AdminMenuForm.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAADgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T18:30:19.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindowForm.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\GitHub\\SchoolManagementSystem\\Forms\\MainWindowForm.cs",
+              "RelativeDocumentMoniker": "Forms\\MainWindowForm.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\GitHub\\SchoolManagementSystem\\Forms\\MainWindowForm.cs",
+              "RelativeToolTip": "Forms\\MainWindowForm.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T18:36:32.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddTeachersForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\GitHub\\SchoolManagementSystem\\Forms\\AddTeachersForm.cs",
+              "RelativeDocumentMoniker": "Forms\\AddTeachersForm.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\GitHub\\SchoolManagementSystem\\Forms\\AddTeachersForm.cs [Design]",
+              "RelativeToolTip": "Forms\\AddTeachersForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T18:36:25.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ManageClassesForm.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\GitHub\\SchoolManagementSystem\\Forms\\ManageClassesForm.cs",
+              "RelativeDocumentMoniker": "Forms\\ManageClassesForm.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\GitHub\\SchoolManagementSystem\\Forms\\ManageClassesForm.cs",
+              "RelativeToolTip": "Forms\\ManageClassesForm.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAQwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T18:30:19.73Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

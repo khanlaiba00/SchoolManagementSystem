@@ -51,5 +51,10 @@ namespace DBFinalProject.Forms
         {
             OpenChildForm(new ManageClassesForm());
         }
+
+        private void MainAdminScreen_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
     }
 }
