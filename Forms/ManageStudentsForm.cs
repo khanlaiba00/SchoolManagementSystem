@@ -16,5 +16,10 @@ namespace DBFinalProject.Forms
         {
             InitializeComponent();
         }
+
+        private void ManageStudentsForm_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

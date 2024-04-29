@@ -93,6 +93,7 @@
             this.guna2Button3.Size = new System.Drawing.Size(362, 85);
             this.guna2Button3.TabIndex = 2;
             this.guna2Button3.Text = "Assign Homework";
+            this.guna2Button3.Click += new System.EventHandler(this.guna2Button3_Click);
             // 
             // guna2Button2
             // 
@@ -113,6 +114,7 @@
             this.guna2Button2.Size = new System.Drawing.Size(362, 85);
             this.guna2Button2.TabIndex = 1;
             this.guna2Button2.Text = "Upload Result";
+            this.guna2Button2.Click += new System.EventHandler(this.guna2Button2_Click);
             // 
             // guna2Button1
             // 

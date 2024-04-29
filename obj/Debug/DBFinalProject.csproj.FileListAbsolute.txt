@@ -38,3 +38,4 @@ C:\Users\hp\Documents\GitHub\SchoolManagementSystem\obj\Debug\DBFinalProject.exe
 C:\Users\hp\Documents\GitHub\SchoolManagementSystem\obj\Debug\DBFinalProject.pdb
 C:\Users\hp\Documents\GitHub\SchoolManagementSystem\obj\Debug\DBFinalProject.Forms.attendance.resources
 C:\Users\hp\Documents\GitHub\SchoolManagementSystem\obj\Debug\DBFinalProject.Forms.UploadResult.resources
+C:\Users\hp\Documents\GitHub\SchoolManagementSystem\obj\Debug\DBFinalProject.Forms.assignHomework.resources

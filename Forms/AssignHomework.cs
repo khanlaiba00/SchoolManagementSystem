@@ -10,21 +10,11 @@ using System.Windows.Forms;
 
 namespace DBFinalProject.Forms
 {
-    public partial class AssignHomework : Form
+    public partial class assignHomework : Form
     {
-        public AssignHomework()
+        public assignHomework()
         {
             InitializeComponent();
-        }
-
-        private void guna2HtmlLabel1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void guna2HtmlLabel2_Click(object sender, EventArgs e)
-        {
-
         }
     }
 }
